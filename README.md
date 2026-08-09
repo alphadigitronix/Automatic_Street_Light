@@ -51,6 +51,7 @@ This system helps reduce unnecessary electricity consumption and eliminates the 
 |---|---|
 | Anode (+) | D8 through 220 Ω resistor |
 | Cathode (−) | GND |
+##TINKERCAD SIMUTATIO[https://www.tinkercad.com/things/aE0r7xBccIK-stunning-snaget-fulffy/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=SIgA-QjM_YI3bw8rhHyhcKC4hK5EfxY5oqwLA0WLBiU]
 
 ### Connection Diagram
 
